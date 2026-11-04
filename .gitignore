@@ -2,6 +2,11 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Exclude large raw datasets per lab instructions
 datasets/
-*.csv_raw
+**/datasets/
+weblog.csv
+user_behavior_dataset.csv
+Global_Cybersecurity_Threats_2015-2024.csv
 household_power_consumption.txt

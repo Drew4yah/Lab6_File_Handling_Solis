@@ -1,0 +1,88 @@
+{
+    "assessment_data": {
+        "student_name": "Solis",
+        "student_id": "TUPM-26-2631",
+        "seed_digit": 1,
+        "id_sum": 20,
+        "target_year": 2016,
+        "total_records_in_dataset": 3000,
+        "incidents_in_target_year": 285,
+        "count_per_attack_type": {
+            "DDoS": 53,
+            "Man-in-the-Middle": 47,
+            "SQL Injection": 47,
+            "Phishing": 55,
+            "Malware": 41,
+            "Ransomware": 42
+        },
+        "total_financial_loss_usd_millions": 13947.26,
+        "average_financial_loss_usd_millions": 48.94,
+        "five_costliest_incidents": [
+            {
+                "Country": "Germany",
+                "Year": "2016",
+                "Attack Type": "Phishing",
+                "Target Industry": "Telecommunications",
+                "Financial Loss (in Million $)": "99.98",
+                "Number of Affected Users": "761576",
+                "Attack Source": "Insider",
+                "Security Vulnerability Type": "Unpatched Software",
+                "Defense Mechanism Used": "Antivirus",
+                "Incident Resolution Time (in Hours)": "9",
+                "Rank": 1
+            },
+            {
+                "Country": "USA",
+                "Year": "2016",
+                "Attack Type": "Ransomware",
+                "Target Industry": "Telecommunications",
+                "Financial Loss (in Million $)": "99.88",
+                "Number of Affected Users": "999508",
+                "Attack Source": "Unknown",
+                "Security Vulnerability Type": "Unpatched Software",
+                "Defense Mechanism Used": "VPN",
+                "Incident Resolution Time (in Hours)": "23",
+                "Rank": 2
+            },
+            {
+                "Country": "Brazil",
+                "Year": "2016",
+                "Attack Type": "Malware",
+                "Target Industry": "IT",
+                "Financial Loss (in Million $)": "99.29",
+                "Number of Affected Users": "273469",
+                "Attack Source": "Insider",
+                "Security Vulnerability Type": "Social Engineering",
+                "Defense Mechanism Used": "AI-based Detection",
+                "Incident Resolution Time (in Hours)": "67",
+                "Rank": 3
+            },
+            {
+                "Country": "USA",
+                "Year": "2016",
+                "Attack Type": "Ransomware",
+                "Target Industry": "Healthcare",
+                "Financial Loss (in Million $)": "99.19",
+                "Number of Affected Users": "745103",
+                "Attack Source": "Insider",
+                "Security Vulnerability Type": "Unpatched Software",
+                "Defense Mechanism Used": "Encryption",
+                "Incident Resolution Time (in Hours)": "8",
+                "Rank": 4
+            },
+            {
+                "Country": "Australia",
+                "Year": "2016",
+                "Attack Type": "Phishing",
+                "Target Industry": "Education",
+                "Financial Loss (in Million $)": "98.72",
+                "Number of Affected Users": "6670",
+                "Attack Source": "Nation-state",
+                "Security Vulnerability Type": "Social Engineering",
+                "Defense Mechanism Used": "VPN",
+                "Incident Resolution Time (in Hours)": "24",
+                "Rank": 5
+            }
+        ]
+    }
+}

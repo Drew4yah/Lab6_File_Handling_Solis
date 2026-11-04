@@ -1,0 +1,70 @@
+======================================================================
+CYBERSECURITY INCIDENT REPORT - FISCAL YEAR 2016
+======================================================================
+Student: Solis (TUPM-26-2631)
+Seed Digit: 1 | ID Sum: 20
+Target Year: 2016
+----------------------------------------------------------------------
+1. EXECUTIVE SUMMARY & ASSESSMENT METRICS
+  Total records in dataset:             3000
+  Incidents occurring in 2016:            285
+  Total Financial Loss:                 $13,947.26 Million USD
+  Average Financial Loss per Incident:  $48.94 Million USD
+----------------------------------------------------------------------
+2. INCIDENTS BY ATTACK TYPE
+  - Phishing              :  55 incidents ( 19.3%)
+  - DDoS                  :  53 incidents ( 18.6%)
+  - Man-in-the-Middle     :  47 incidents ( 16.5%)
+  - SQL Injection         :  47 incidents ( 16.5%)
+  - Ransomware            :  42 incidents ( 14.7%)
+  - Malware               :  41 incidents ( 14.4%)
+----------------------------------------------------------------------
+3. FIVE COSTLIEST INCIDENTS OF 2016
+  Rank 1: Loss = $99.98 Million USD
+         Attack Type:     Phishing
+         Country:         Germany
+         Target Industry: Telecommunications
+         Affected Users:  761576
+         Defense Used:    Antivirus
+         Vulnerability:   Unpatched Software
+
+  Rank 2: Loss = $99.88 Million USD
+         Attack Type:     Ransomware
+         Country:         USA
+         Target Industry: Telecommunications
+         Affected Users:  999508
+         Defense Used:    VPN
+         Vulnerability:   Unpatched Software
+
+  Rank 3: Loss = $99.29 Million USD
+         Attack Type:     Malware
+         Country:         Brazil
+         Target Industry: IT
+         Affected Users:  273469
+         Defense Used:    AI-based Detection
+         Vulnerability:   Social Engineering
+
+  Rank 4: Loss = $99.19 Million USD
+         Attack Type:     Ransomware
+         Country:         USA
+         Target Industry: Healthcare
+         Affected Users:  745103
+         Defense Used:    Encryption
+         Vulnerability:   Unpatched Software
+
+  Rank 5: Loss = $98.72 Million USD
+         Attack Type:     Phishing
+         Country:         Australia
+         Target Industry: Education
+         Affected Users:  6670
+         Defense Used:    VPN
+         Vulnerability:   Social Engineering
+
+----------------------------------------------------------------------
+4. OUTPUT & ARCHIVE VERIFICATION
+  Filtered CSV File:    cybersecurity_2016_filtered.csv (285 records)
+  JSON Summary File:    cybersecurity_2016_top5_costliest.json (3523 bytes)
+  Backup JSON File:     cybersecurity_2016_top5_costliest_backup.json (3523 bytes)
+  Backup Verification:  VERIFIED
+  Incident Report File: cybersecurity_2016_incident_report.txt
+======================================================================

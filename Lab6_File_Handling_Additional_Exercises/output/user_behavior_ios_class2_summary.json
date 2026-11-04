@@ -1,0 +1,26 @@
+{
+    "assessment_data": {
+        "student_name": "Solis",
+        "student_id": "TUPM-26-2631",
+        "seed_digit": 1,
+        "id_sum": 20,
+        "operating_system_and_behavior_class": "iOS, Class 2",
+        "total_records_in_dataset": 700,
+        "records_matching_operating_system": 146,
+        "records_in_target_behavior_class": 32,
+        "average_battery_drain_mah_day": 872.03,
+        "average_data_usage_mb_day": 451.34,
+        "count_verification": {
+            "selected_record_count": 32,
+            "exported_row_count": 32,
+            "verified": true
+        },
+        "exported_csv_file": "user_behavior_ios_class2.csv",
+        "json_summary_file": "user_behavior_ios_class2_summary.json",
+        "backup_file_and_size": {
+            "file_name": "user_behavior_ios_class2_backup.csv",
+            "size_bytes": 954,
+            "verified": true
+        }
+    }
+}

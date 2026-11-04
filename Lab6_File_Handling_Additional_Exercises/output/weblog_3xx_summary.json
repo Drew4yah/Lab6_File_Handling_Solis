@@ -1,0 +1,45 @@
+{
+    "assessment_data": {
+        "student_name": "Solis",
+        "student_id": "TUPM-26-2631",
+        "seed_digit": 1,
+        "id_sum": 20,
+        "records_processed": 1020,
+        "target_status_class": "3xx",
+        "records_in_target_class": 164,
+        "invalid_or_skipped_records": 0,
+        "count_per_status_code": {
+            "302": 143,
+            "304": 21
+        },
+        "five_most_requested_urls": [
+            {
+                "rank": 1,
+                "url": "GET / HTTP/1.1",
+                "count": 45
+            },
+            {
+                "rank": 2,
+                "url": "POST /process.php HTTP/1.1",
+                "count": 35
+            },
+            {
+                "rank": 3,
+                "url": "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1",
+                "count": 34
+            },
+            {
+                "rank": 4,
+                "url": "GET /home.php HTTP/1.1",
+                "count": 9
+            },
+            {
+                "rank": 5,
+                "url": "GET /logout.php HTTP/1.1",
+                "count": 7
+            }
+        ],
+        "filtered_csv_file": "weblog_3xx_filtered.csv",
+        "json_summary_file": "weblog_3xx_summary.json"
+    }
+}
