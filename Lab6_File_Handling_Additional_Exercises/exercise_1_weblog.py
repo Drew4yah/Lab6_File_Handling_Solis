@@ -166,3 +166,4 @@ def run_exercise_1():
 
 if __name__ == "__main__":
     run_exercise_1()
+
